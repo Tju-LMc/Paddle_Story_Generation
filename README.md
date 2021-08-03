@@ -29,7 +29,7 @@
 
 * [AIStudio链接](https://aistudio.baidu.com/aistudio/projectdetail/2235967)
 
-* [B站链接](https://aistudio.baidu.com/aistudio/projectdetail/2235967)
+* [B站链接](https://www.bilibili.com/video/BV1Kg411E7PH)
 
 ## 安装依赖
 

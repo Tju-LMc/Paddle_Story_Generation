@@ -17,6 +17,7 @@
   
   https://play.aidungeon.io/main/home
 
+
 **快速使用**
 
 直接使用了paddlenlp引入的预训练模型
@@ -24,6 +25,12 @@
 本机快速测试可以使用 阿巴阿巴胡言乱语模型 gpt-cpm-small-cn-distill
 
 在 ai studio 中可以安装 paddlenlp==2.0.0rc14 然后引入 gpt2-base-cn ，能得到不错的效果
+
+**AIStudio链接**
+
+**B站链接**
+
+
 
 ## 安装依赖
 

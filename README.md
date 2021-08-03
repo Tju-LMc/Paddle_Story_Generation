@@ -26,6 +26,8 @@
 
 在 ai studio 中可以安装 paddlenlp==2.0.0rc14 然后引入 gpt2-base-cn ，能得到不错的效果
 
+**效果展示**
+
 **AIStudio链接**
 
 **B站链接**

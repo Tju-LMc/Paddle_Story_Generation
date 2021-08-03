@@ -17,7 +17,7 @@
 
 * [AIStudio链接](https://aistudio.baidu.com/aistudio/projectdetail/2235967)
 
-* [B站链接](https://www.bilibili.com/video/BV1Kg411E7PH/)
+* [B站链接](https://www.bilibili.com/video/BV1Kg411E7PH)
 
 ![动图1](./imgs/img_1.gif) ![动图2](./imgs/img_2.gif)
 

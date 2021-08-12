@@ -77,7 +77,9 @@ python main.py
 
 enjoy it ！
 
-**天津大学语言与心理计算 LMc Lab**
+**欢迎对我们的研究方向感兴趣的同学加入我们的天津大学灵媒研究小组（LMc, Language and Mind computing)，一起用智能技术探寻语言和心灵的奥秘！**
+
+**主页：** http://cic.tju.edu.cn/faculty/wangbo/index.htm
 
 **研究方向：**
 
@@ -87,8 +89,5 @@ enjoy it ！
 
 + 自然语言处理（社会场景下的语义与观点自动化分析，基于语言的心理及社会关系自动化分析）
 
-**欢迎对我们的研究方向感兴趣的同学加入我们的灵媒研究小组（LMc, Language and Mind computing)，一起用智能技术探寻语言和心灵的奥秘！**
-
-**主页：** http://cic.tju.edu.cn/faculty/wangbo/index.htm
 
 

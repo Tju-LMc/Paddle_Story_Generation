@@ -77,4 +77,8 @@ python main.py
 
 enjoy it ！
 
+**天津大学语言与心理计算 LMc Lab**
+**欢迎感兴趣的同学加入实验室**
+**简历投递地址：jfzhou@tju.edu.cn**
+
 

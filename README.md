@@ -77,6 +77,8 @@ python main.py
 
 enjoy it ！
 
+## 关于我们
+
 **欢迎对我们的研究方向感兴趣的同学加入我们的天津大学灵媒研究小组（LMc, Language and Mind computing)，一起用智能技术探寻语言和心灵的奥秘！**
 
 **主页：** http://cic.tju.edu.cn/faculty/wangbo/index.htm
